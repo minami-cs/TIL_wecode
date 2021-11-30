@@ -6,6 +6,7 @@
 
 ------
 
-[Week1](./Week1)
+Week1
 
 1. [CSS](./Week1/CSS.md)
+1. [Sematic Web & Semantic Tags](./Week1/Semantic_Web_Semantic_Tags.md)
