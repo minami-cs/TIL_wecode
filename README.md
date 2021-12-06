@@ -11,3 +11,4 @@ Week1
 1. [CSS](./Week1/CSS.md)
 1. [Sematic Web & Semantic Tags](./Week1/Semantic_Web_Semantic_Tags.md)
 1. [position & display](./Week1/position_dislay.md)
+1. [Developers Tool](./Week1/Developers_Tool.md)
